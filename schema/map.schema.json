@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://github.com/ProjektPayne/topdown-map-viewer/schema/map.schema.json",
+  "$id": "https://github.com/Stonefletcher-Productions-LLC/topdown-map-viewer/schema/map.schema.json",
   "title": "Top-down map",
   "description": "One map for topdown-map-viewer. Plan coordinates: x east, y north, z up, in map units (units_per_meter of them make a metre). Yaw is degrees counter-clockwise from +x, seen from above. Every list is optional, so a map can start as a few polygons and grow.",
   "type": "object",
