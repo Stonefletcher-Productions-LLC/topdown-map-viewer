@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://github.com/ProjektPayne/topdown-map-viewer/schema/catalog.schema.json",
+  "$id": "https://github.com/Stonefletcher-Productions-LLC/topdown-map-viewer/schema/catalog.schema.json",
   "title": "Map catalog",
   "description": "The list of maps the viewer shows, grouped, with optional stat columns. File paths are relative to the catalog.",
   "type": "object",
