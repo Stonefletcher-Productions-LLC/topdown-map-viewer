@@ -6,6 +6,12 @@ It started as the level-design viewer for the co-op fishing game *Trespass Fishi
 
 ![Example map](docs/example.png)
 
+## Refreshed visuals
+
+![topdown-map-viewer concept branding](marketing/refresh/brand.png)
+
+[Fresh interface capture and image sources](marketing/refresh/README.md). Fresh browser capture of current viewer and bundled Mill Pond catalog entry, all layers enabled.
+
 ## Quick start
 
 Needs Python 3.8+ and a browser. No other dependencies.

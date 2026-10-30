@@ -1,0 +1,24 @@
+{
+  "tool": "topdown-map-viewer",
+  "date": "2026-10-29",
+  "source_revision": "1cddb325e22ed46cab1d5e1b7309a7bc4c87fe0b",
+  "brand": {
+    "file": "brand.png",
+    "kind": "AI-generated concept branding",
+    "generator": "built-in image_gen",
+    "prompt": "Use case: logo-brand. Asset type: wide 16:9 concept banner for 'topdown-map-viewer', an open-source Three.js map layout viewer. Cohesive Stonefletcher tool family: near-black blue-grey studio, matte dimensional emblem with cool blue rim light and restrained ember orange details. Emblem a beautifully layered square topographic tile with a winding river cut through it and a small location pin, abstract and clearly symbolic, not a software screenshot or actual map output. Exact title 'topdown-map-viewer' in readable white contemporary type, split over two lines if needed. Exact subtitle 'Plan the level. See the layout.'. Small footer 'Concept artwork'. Comfortable crop-safe margins and generous negative space. No third party marks or fake UI.\n",
+    "sha256": "0661d9be75aa61a8bffc65fa975ed90c9488a342e80bb4d603ff1ca64616fdc5"
+  },
+  "capture": {
+    "file": "screenshot.jpg",
+    "kind": "real-interface capture",
+    "notes": "Fresh browser capture of current viewer and bundled Mill Pond catalog entry, all layers enabled.",
+    "sha256": "fe3df82645a05e64a865e84fb040b977cae5c314b2318a4e5e389880b4046673"
+  },
+  "website": {
+    "brand": "topdown-brand.jpg",
+    "capture": "topdown-capture.jpg",
+    "brand_sha256": "71d13551c1a030fd05f9863a9d2cb28293dbe05b0f12d31c076345e4d7ce46ca",
+    "capture_sha256": "fe3df82645a05e64a865e84fb040b977cae5c314b2318a4e5e389880b4046673"
+  }
+}
